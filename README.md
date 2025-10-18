@@ -29,7 +29,7 @@ RareWords is a minimal, high-performance **C++/Win32 desktop application** built
 
 ### Why
 
-Language learners, writers, and linguistics enthusiasts often encounter fascinating words they want to remember — but not every note-taking app is designed for that. RareWords focuses purely on *speed, simplicity, and permanence*.
+Language learners, writers, and linguistics enthusiasts often encounter [fascinating words they want to remember](https://rtnf.substack.com/p/a-quest-for-the-perfect-word-vault) — but not every note-taking app is designed for that. RareWords focuses purely on *speed, simplicity, and permanence*.
 
 
 
